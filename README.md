@@ -1,5 +1,5 @@
 # WordFields App
-WordFields allows you to easily convert your Word, Excel, or text templates into fillable forms, enabling you to automate document generation in a matter of minutes.
+Effortlessly convert your document templates into user-friendly forms. All you have to do is pinpoint the fields where text needs to be edited and WordFields will take care of generating a fillable form.
 
 Homepage: https://wordfields.com
 
